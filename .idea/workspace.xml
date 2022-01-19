@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7b37fa1-3b20-4592-af2f-da016acfe855" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gateway/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7b37fa1-3b20-4592-af2f-da016acfe855" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gateway" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager">
     <configuration name="MerchantHubGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -72,6 +70,7 @@
       <workItem from="1641344665935" duration="240000" />
       <workItem from="1641509062568" duration="606000" />
       <workItem from="1642474444001" duration="204000" />
+      <workItem from="1642552944647" duration="62000" />
     </task>
     <servers />
   </component>
